@@ -1,3 +1,4 @@
+'use client';
 export default function IntroSection() {
     return (
       <section className="w-full flex items-center justify-center text-center py-24 px-4 bg-gray-50">

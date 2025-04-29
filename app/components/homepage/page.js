@@ -1,4 +1,5 @@
 // app/login/page.js
+'use client';
 import Link from 'next/link';
 
 export default function Login() {

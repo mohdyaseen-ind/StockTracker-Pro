@@ -1,3 +1,4 @@
+'use client';
 import FeatureCard from './FeatureCard';
 import { featuresData } from '../../assets/HomePage/featuresData';
 

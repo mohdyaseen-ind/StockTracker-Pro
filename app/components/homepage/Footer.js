@@ -1,3 +1,4 @@
+'use client';
 import FooterColumn from "./FooterColumn";
 import { footerData } from "../../assets/HomePage/footerData";
 
